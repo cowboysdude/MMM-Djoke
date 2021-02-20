@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Sansita');
-  
 .MMM-Djoke .description {
-	font-family: 'Sansita', sans-serif;
 	font-size: 32px; 
-	line-height: 90%;
+	line-height: 94%;
 	color: white;
+	width: 55%;
+        margin: 0 auto;
+        display: block;
 }
